@@ -80,8 +80,8 @@
         break;
     }
 
-    this.marginX = this.template.branch.spacingX + this.template.commit.dot.size * 2;
-    this.marginY = this.template.branch.spacingY + this.template.commit.dot.size * 2;
+    this.marginX = this.template.branch.spacingX + this.template.commit.dot.size * 3;
+    this.marginY = this.template.branch.spacingY + this.template.commit.dot.size * 3;
     this.offsetX = 0;
     this.offsetY = 0;
 
